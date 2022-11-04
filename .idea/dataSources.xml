@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="registro@localhost" uuid="40e5b252-a728-4b4e-8c33-15ca02eea690">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/registro</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="APPROVED_DRIVER" value="mysql.8" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="e0ce9e05-0316-4578-936f-a8e309a3c844">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/fahof/OneDrive/Desktop/kktimer/src/main/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/registro</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="APPROVED_DRIVER" value="mysql.8" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
